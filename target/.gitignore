@@ -1,12 +1,3 @@
 /classes/
 /test-classes/
-/generated-sources/
-/generated-test-sources/
 /m2e-wtp/
-/maven-archiver/
-/maven-status/
-/spring_web-0.0.1-SNAPSHOT/
-/surefire-reports/
-/test-classes/
-/spring_web-0.0.1-SNAPSHOT.war
-/spring_web-0.0.1-SNAPSHOT.war.original
